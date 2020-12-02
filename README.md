@@ -2,4 +2,4 @@
 
 Hello guys!
 
-I'm Shion, a student studing Programming in Korea.
+I'm Shion, a student studying Programming in Korea.
